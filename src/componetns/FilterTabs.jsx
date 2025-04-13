@@ -5,9 +5,9 @@ function FilterTabs() {
   const { filter, changeFilter } = useFilter();
 
   const filters = [
-    { label: "Все", value: "all" },
-    { label: "Активные", value: "active" },
-    { label: "Выполненные", value: "completed" },
+    { label: "All", value: "all" },
+    { label: "Active", value: "active" },
+    { label: "Completed", value: "completed" },
   ];
 
   return (
