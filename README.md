@@ -10,8 +10,8 @@ Simulates backend delays and random server errors using `setTimeout`.
 <pre> bash
 # 1. Clone the repo
 git clone https://github.com/ShorSerj/mini-task-manager.git
-cd task-manager
-
+cd mini-task-manager
+  
 # 2. Install dependencies
 npm install
 
