@@ -7,7 +7,7 @@ Simulates backend delays and random server errors using `setTimeout`.
 
 ## 📦 Getting Started
 
-<pre> ```bash
+<pre> bash
 # 1. Clone the repo
 git clone https://github.com/ShorSerj/mini-task-manager.git
 cd task-manager
@@ -19,7 +19,7 @@ npm install
 npm run dev
 
 # 4. Visit in browser
-http://localhost:5173 ``` </pre>
+http://localhost:5173 </pre>
 
 ---
 
