@@ -16,7 +16,7 @@ function FilterTabs() {
         <button
           key={value}
           onClick={() => changeFilter(value)}
-          className={`cursor-pointer px-4 py-1 ${
+          className={`cursor-pointer px-4 py-1 hover:bg-[#0F74D1] transition ${
             filter === value ? "bg-[#0F74D1]" : "bg-[#4f8cc4]"
           }`}
         >

@@ -38,7 +38,7 @@ function TodoAdd() {
       <button
         type="submit"
         disabled={loading}
-        className={`grid grid-cols-[70px_25px] items-center h-[45px] whitespace-nowrap bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition
+        className={`grid grid-cols-[70px_25px] items-center h-[45px] whitespace-nowrap bg-blue-600 text-white px-4 py-2 rounded cursor-pointer hover:bg-blue-700 transition
               ${loading || !newTodo ? "opacity-50 pointer-events-none" : ""}`}
       >
         Add Todo{" "}

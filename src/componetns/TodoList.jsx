@@ -40,7 +40,7 @@ function TodoList() {
 
       <button
         onClick={() => removeTodo(todo.id)}
-        className="bg-[#e06155] text-white px-3 py-1 rounded hover:bg-red-700 transition"
+        className="cursor-pointer bg-[#e06155] text-white px-3 py-1 rounded hover:bg-red-700 transition"
       >
         Delete
       </button>
