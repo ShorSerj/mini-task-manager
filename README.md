@@ -19,6 +19,7 @@ npm install
 npm run dev
 
 # 4. Visit in browser
+Check the terminal output — it will show something like:
 http://localhost:5173 </pre>
 
 ---
